@@ -17,7 +17,7 @@ To provide valuable information for the clients looking to improve their health 
 For More Information Contact: support@runbuddy.io
 
 # SEO
-Website is optimized for SEO. Included <h1><h2><h3> tags for the search engines to identify title, subtitles and important content. Images are optimized for SEO with <alt tags>
+Website is optimized for SEO. Included h1,h2,h3 tags for the search engines to identify title, subtitles and important content. Images are optimized for SEO with alt tags.
 HTML and CSS presented in clean code optimised for ALL browsers. All links on the website are functioning correctly to eliminate error 404.
 
 # Roadmap
