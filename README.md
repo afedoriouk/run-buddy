@@ -21,14 +21,9 @@ Website is optimized for SEO. Included h1,h2,h3 tags for the search engines to i
 HTML and CSS presented in clean code optimised for ALL browsers. All links on the website are functioning correctly to eliminate error 404.
 
 # Roadmap
-run-buddy/assets/css/styles.css
+run-buddy/What We Do/What You Do/Your Trainers
 
-run-buddy/assets/css/secondary-styles.css
+run-buddy/Reach Out
 
-run-buddy/index.html
+run-buddy/Privacy Policy
 
-run-buddy/privacy-policy.html 
-
-run-buddy/README.md
-
-run-buddy/assets/images/hero-bg.jpg
