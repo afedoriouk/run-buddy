@@ -22,8 +22,13 @@ HTML and CSS presented in clean code optimised for ALL browsers. All links on th
 
 # Roadmap
 run-buddy/assets/css/styles.css
+
 run-buddy/assets/css/secondary-styles.css
+
 run-buddy/index.html
+
 run-buddy/privacy-policy.html 
+
 run-buddy/README.md
+
 run-buddy/assets/images/hero-bg.jpg
